@@ -2,3 +2,5 @@ RESOLUSI 2
 - res 1
 - res2
 - res3
+- new res 4
+- new res 5
