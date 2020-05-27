@@ -1,0 +1,4 @@
+RESOLUSI 2
+- res 1
+- res2
+- res3
